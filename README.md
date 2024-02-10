@@ -10,7 +10,7 @@ I'm a passionate Flutter Developer, currently studying at the South Ural State U
 
 Got a question or just want to connect? Reach out to me via:
 
-- 👋 Telegram: [@zagrebnev](https://telegram.org/zagrebnev)
+- 👋 Telegram: [@zagrebnev](https://t.me/zagrebnev)
 
 I'm always open to new opportunities, collaborations, or simply chatting about tech!
 
